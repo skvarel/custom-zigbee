@@ -1,7 +1,7 @@
 <H3>Alles rund um eigene Zigbee Geräte</H3>
 <hr>
 <ul>
-      <li>Externe Konverter<i>(für Zigbee2mqtt</i></li>
+      <li>Externe Konverter <i>(für Zigbee2mqtt)</i></li>
       <li>Passende Icons</li>
       <li>Firmware Dateien <i>(kommen noch)</i></li>
 </ul>
